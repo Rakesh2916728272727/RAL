@@ -12,7 +12,7 @@
 `include "apb_env.sv"
 `include "apb_test.sv"
 
-module tb;
+module testbench;
 bit pclk;
 bit presetn;
   
